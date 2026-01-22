@@ -16,7 +16,7 @@ I am a Computer Science undergraduate student with strong <br>foundations in DSA
 ![](https://github-readme-stats.vercel.app/api?username=SampannaNampalli&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SampannaNampalli&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SampannaNampalli&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SampannaNampalli)](https://github.com/SampannaNampalli)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SampannaNampalli)](https://github.com/SampannaNampalli) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
