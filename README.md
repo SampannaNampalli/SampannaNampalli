@@ -4,7 +4,7 @@
 **SampannaNampalli/SampannaNampalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 # 💫 About Me:
-I am a Computer Science undergraduate student with strong <br>foundations in DSA and full-stack development, focused on building <br>scalable systems and high-impact software products.<br><br>I am currently learning:<br>    DevOps<br>    System Design<br>    Competitive Programming
+I am a Computer Science undergraduate student with strong foundations in DSA and full-stack development, focused on building <br>scalable systems and high-impact software products.I am currently learning:<br>    DevOps<br>    System Design<br>    Competitive Programming
 
 
 ## 🌐 Socials:
